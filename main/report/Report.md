@@ -2,7 +2,7 @@
 
 ## 1. Title Page
 
-Project title:
+Project title: House price prediction
 
 Academic group: BDA-2501
 
@@ -24,11 +24,11 @@ Project topic: House price prediction
 
 ## 3. Project Overview
 
-Briefly describe your project.
+We build a regression model on housing data to estimate property prices. The project includes preprocessing, training, evaluation, and prediction.
 
 ## 4. Problem Statement
 
-What problem does your project solve?
+House prices are influenced by many factors and can vary significantly depending on location, property size, and market conditions. For buyers, sellers, and real estate agents, estimating the fair value of a property is often difficult and time-consuming. Our project solves this problem by providing a data-driven prediction model that helps estimate property prices more accurately, reducing uncertainty and supporting better decision-making in the housing market.
 
 ## 5. Tools and Technologies
 
